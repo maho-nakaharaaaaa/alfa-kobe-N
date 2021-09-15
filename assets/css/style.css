@@ -36,6 +36,10 @@ figure {
   margin: 0;
 }
 
+.logo{
+  height: 40px;
+}
+
 figcaption {
   margin-top: 30px;
   font-size: 14px;
